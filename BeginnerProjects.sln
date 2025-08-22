@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo", "TODO\ToDo.csproj", "{DA6E543B-3B01-434B-A530-4739948EEC2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGame", "NumberGuessingGame\NumberGuessingGame.csproj", "{D37F212F-B4A0-420B-AEEA-1C3A1EFFF0A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA6E543B-3B01-434B-A530-4739948EEC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA6E543B-3B01-434B-A530-4739948EEC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA6E543B-3B01-434B-A530-4739948EEC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37F212F-B4A0-420B-AEEA-1C3A1EFFF0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37F212F-B4A0-420B-AEEA-1C3A1EFFF0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37F212F-B4A0-420B-AEEA-1C3A1EFFF0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37F212F-B4A0-420B-AEEA-1C3A1EFFF0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
